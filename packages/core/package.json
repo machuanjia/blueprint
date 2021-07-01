@@ -1,5 +1,5 @@
 {
-    "name": "@blueprintjs/core",
+    "name": "blueprintjs-core",
     "version": "3.46.0",
     "description": "Core styles & components",
     "main": "lib/cjs/index.js",
